@@ -9,3 +9,7 @@ Answer: Data science can be applied to any field that has data. For example, dat
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is the process of combining two branches together. Rebasing is the process of applying changes from one branch onto another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about Git and GitHub. I am also looking forward to working on projects with my classmates.
