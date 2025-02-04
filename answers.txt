@@ -5,3 +5,7 @@ Answer: Git is a great way to collaborate with others on a project. It allows yo
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to any field that has data. For example, data science can be used to analyze customer behavior in a retail store, or to predict the weather.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is the process of combining two branches together. Rebasing is the process of applying changes from one branch onto another.
